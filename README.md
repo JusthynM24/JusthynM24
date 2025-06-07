@@ -12,7 +12,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💻 Visit my [Portfolio](https://JusthynM.github.io) for more details about me. 
+- 💻 Visit my [Portfolio](https://JusthynM24.github.io) for more details about me. 
 <!--End Intro-->
 
 

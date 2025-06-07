@@ -1,5 +1,5 @@
 <!--Banner-->
-![Justhyn Banner Image](https://github.com/JusthynM24/README.md/BannerJusthyn.png)
+![Justhyn Banner Image](BannerJusthyn.png)
 
 <!--Night Owl image-->
 <div>

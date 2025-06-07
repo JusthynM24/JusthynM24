@@ -1,5 +1,5 @@
 <!--Banner-->
-![Justhyn Banner Image](BannerJusthynM.png)
+![Justhyn Banner Image](BannerJusthynMZ.png)
 
 
 <!--Header Name-->

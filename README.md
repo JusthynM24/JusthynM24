@@ -77,10 +77,24 @@
 ---
 
 
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
+
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
 <a href="mailto:josthynmuentes@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="www.linkedin.com/in/justhyn-muentes"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </a>
+</div>
+
+<!-- FOOTER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:F7D000,50:B20000,100:660000&height=100&section=footer&fontSize=50&type=waving&fontColor=fefefe"
+  alt="footer" />
 </div>

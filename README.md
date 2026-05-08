@@ -19,15 +19,19 @@
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Cybersecurity & Pentesting
-![Kali linux](https://img.shields.io/badge/Kali%20Linux-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-OS: Kali Linux, Parrot OS
-Tools: John the Ripper (Cracking), Nmap (Scanning), Metasploit.
-Networking: Tailscale (VPN/SDN), Wireshark.
+![Kali linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-%230db7ed.svg?style=for-the-badge&logo=Parrotos&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23000000.svg?style=for-the-badge&logo=linux&logoColor=red)
+![Nmap](https://img.shields.io/badge/Nmap-4E9BCD.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-FF4500.svg?style=for-the-badge&logo=Tailscale&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
 
 #### 🔧 Scripting & Terminal
 
-Languages: Bash, Python.
-Shells: CMD / PowerShell
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 #### 🔧 Tools
 

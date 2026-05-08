@@ -8,7 +8,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a . </p>
+<p align="left">Cybersecurity Enthusiast | ASIX | Future SOC Analyst</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -18,15 +18,16 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
+#### 🔧 Cybersecurity & Pentesting
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+OS: Kali Linux, Parrot OS
+Tools: John the Ripper (Cracking), Nmap (Scanning), Metasploit.
+Networking: Tailscale (VPN/SDN), Wireshark.
 
+#### 🔧 Scripting & Terminal
+
+Languages: Bash, Python.
+Shells: CMD / PowerShell
 
 #### 🔧 Tools
 

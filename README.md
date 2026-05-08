@@ -19,7 +19,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Cybersecurity & Pentesting
-
+![Kali linux](https://img.shields.io/badge/Kali%20Linux-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 OS: Kali Linux, Parrot OS
 Tools: John the Ripper (Cracking), Nmap (Scanning), Metasploit.
 Networking: Tailscale (VPN/SDN), Wireshark.

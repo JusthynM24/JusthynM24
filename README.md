@@ -45,8 +45,8 @@
 <p>
     <a align="left">
       <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=JusthynM24&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="josuerv99" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JusthynM24&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=JusthynM24&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="JusthynM24" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JusthynM24&show_icons=true&theme=dark&locale=en" alt="JusthynM24" /></p></a>  
   </p>
 </p>
 </div>
@@ -84,7 +84,7 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:josthynmuentes@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:justhynmuentes@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="www.linkedin.com/in/justhyn-muentes"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </a>
 </div>
